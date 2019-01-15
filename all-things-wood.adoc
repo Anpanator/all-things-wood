@@ -1,5 +1,5 @@
 = All Things Wood
-Anpanator <user@server.tld>
+Anpanator
 
 A collection of information regarding wood and working with it.
 
