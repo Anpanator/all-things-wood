@@ -1,5 +1,4 @@
 = All Things Wood
-Anpanator
 
 A collection of information regarding wood and working with it.
 
@@ -20,7 +19,7 @@ Likely one of the most widely used glues, PVA (polyvinyl acetate) glue,
 also known as "white glue" or the yellow "carpenter's glue", is a proven glue
 that is popular due to it's wide availability and low cost. PVA glue is usually
 a dispersion of PVA in water. Once applied, the water will slowly evaporate and
-drawn into the wood, causing the glue to harden and the joined wood surfaced to
+drawn into the wood, causing the glue to harden and the joined wood surfaces to
 adhere to each other. As any material, however, PVA glue has it's limits.
 
 Generally, the instructions of the particular PVA glue that was bought are what
