@@ -3,7 +3,6 @@
 A collection of information regarding wood and working with it.
 
 == Wood glues
-
 Certainly, there are many ways of joining different pieces of wood together, but
 using glue is one of the most common ways to do so. However, there is a wide
 variety of glues that can be used.
@@ -15,10 +14,10 @@ higher adhesive strength, easier application or complete resistance to moisture,
 which can greatly simplify construction in outdoor applications, for instance.
 
 ==== PVA glue
-Likely one of the most widely used glues, PVA (polyvinyl acetate) glue,
-also known as "white glue" or the yellow "carpenter's glue", is a proven glue
-that is popular due to it's wide availability and low cost. PVA glue is usually
-a dispersion of PVA in water. Once applied, the water will slowly evaporate and
+Likely one of the most widely used glues, PVA (polyvinyl acetate) glue, also
+known as "white glue" or the yellow "carpenter's glue", is a proven glue that is
+popular due to it's wide availability and low cost. PVA glue is usually a
+dispersion of PVA in water. Once applied, the water will slowly evaporate and
 drawn into the wood, causing the glue to harden and the joined wood surfaces to
 adhere to each other. As any material, however, PVA glue has it's limits.
 
