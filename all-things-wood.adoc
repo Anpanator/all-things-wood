@@ -5,21 +5,21 @@ A collection of information regarding wood and working with it.
 
 == Wood glues
 
-Certainly, there are many ways of joining different pieces of wood together, but +
-using glue is one of the most common ways to do so. However, there is a wide +
+Certainly, there are many ways of joining different pieces of wood together, but
+using glue is one of the most common ways to do so. However, there is a wide 
 variety of glues that can be used.
 
 === Syntheic glues
 ==== PVA glue
-Likely one of the most widely used glues, PVA (polyvinyl acetate) glue, +
-also known as "white glue" or the yellow "carpenter's glue", is a proven glue +
-that is popular due to it's wide availability and low cost. PVA glue is usually +
-a dispersion of PVA in water. Once applied, the water will slowly evaporate and +
-drawn into the wood, causing the glue to harden and the joined wood surfaced to +
+Likely one of the most widely used glues, PVA (polyvinyl acetate) glue,
+also known as "white glue" or the yellow "carpenter's glue", is a proven glue
+that is popular due to it's wide availability and low cost. PVA glue is usually
+a dispersion of PVA in water. Once applied, the water will slowly evaporate and
+drawn into the wood, causing the glue to harden and the joined wood surfaced to
 adhere to each other. As any material, however, PVA glue has it's limits.
 
-Generally you should read the instructions of the particular PVA glue that you bought. +
-However, PVA glues are normally very similar in some aspects:
+Generally you should read the instructions of the particular PVA glue that was
+bought. However, PVA glues are normally very similar in some aspects:
 
 [horizontal]
 Working temperature:: 8°C to ~40°C +
@@ -32,7 +32,7 @@ Storage temperature:: 0°C - 30°C
 Water resistant:: no
 Shelf life:: up to about 6 months
 
-On top of this, PVA glue will saponify easily under alkaline conditions, which will make +
-the glue joint fail very easily. This may make it impossible to use certain woodstains +
-and, paints or wood finishes. Despite these limitations, PVA glue is a very good wood glue +
-and is a good choice for most indoor applications.
+On top of this, PVA glue will saponify easily under alkaline conditions, which
+will make the glue joint fail very easily. This may make it impossible to use
+certain woodstains and, paints or wood finishes. Despite these limitations,
+PVA glue is a very good wood glue and is a good choice for most indoor applications.
