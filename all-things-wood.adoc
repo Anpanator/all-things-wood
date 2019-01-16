@@ -6,7 +6,7 @@ A collection of information regarding wood and working with it.
 == Wood glues
 
 Certainly, there are many ways of joining different pieces of wood together, but
-using glue is one of the most common ways to do so. However, there is a wide 
+using glue is one of the most common ways to do so. However, there is a wide
 variety of glues that can be used.
 
 === Syntheic glues
@@ -34,5 +34,5 @@ Shelf life:: up to about 6 months
 
 On top of this, PVA glue will saponify easily under alkaline conditions, which
 will make the glue joint fail very easily. This may make it impossible to use
-certain woodstains and, paints or wood finishes. Despite these limitations,
+certain woodstains, paints or wood finishes. Despite these limitations,
 PVA glue is a very good wood glue and is a good choice for most indoor applications.
