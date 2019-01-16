@@ -9,7 +9,12 @@ Certainly, there are many ways of joining different pieces of wood together, but
 using glue is one of the most common ways to do so. However, there is a wide
 variety of glues that can be used.
 
-=== Syntheic glues
+=== Synthetic glues
+Synthetic glues are the most commonly used today because they usually offer some
+advantages compared to natural glues that have been used traditionally, such as
+higher adhesive strength, easier application or complete resistance to moisture,
+which can greatly simplify construction in outdoor applications, for instance.
+
 ==== PVA glue
 Likely one of the most widely used glues, PVA (polyvinyl acetate) glue,
 also known as "white glue" or the yellow "carpenter's glue", is a proven glue
