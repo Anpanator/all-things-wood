@@ -23,8 +23,9 @@ a dispersion of PVA in water. Once applied, the water will slowly evaporate and
 drawn into the wood, causing the glue to harden and the joined wood surfaced to
 adhere to each other. As any material, however, PVA glue has it's limits.
 
-Generally you should read the instructions of the particular PVA glue that was
-bought. However, PVA glues are normally very similar in some aspects:
+Generally, the instructions of the particular PVA glue that was bought are what
+is valid for that specific product. However, PVA glues are normally very similar
+in some aspects:
 
 [horizontal]
 Working temperature:: 8°C to ~40°C +
@@ -40,4 +41,8 @@ Shelf life:: up to about 6 months
 On top of this, PVA glue will saponify easily under alkaline conditions, which
 will make the glue joint fail very easily. This may make it impossible to use
 certain woodstains, paints or wood finishes. Despite these limitations,
-PVA glue is a very good wood glue and is a good choice for most indoor applications.
+PVA glue is a very good wood glue and is a good choice for most indoor
+applications.
+
+If it is not clear whether or not the product in question is compatible with
+PVA glue, it is always advisable to test it with two small pieces of scrap wood.
