@@ -14,12 +14,13 @@ higher adhesive strength, easier application or complete resistance to moisture,
 which can greatly simplify construction in outdoor applications, for instance.
 
 ==== PVA glue
-Likely one of the most widely used glues, PVA (polyvinyl acetate) glue, also
-known as "white glue" or the yellow "carpenter's glue", is a proven glue that is
-popular due to it's wide availability and low cost. PVA glue is usually a
-dispersion of PVA in water. Once applied, the water will slowly evaporate and
-drawn into the wood, causing the glue to harden and the joined wood surfaces to
-adhere to each other. As any material, however, PVA glue has it's limits.
+Likely one of the most widely used glues, PVA (**p**oly**v**inyl **a**cetate)
+glue, also known as "white glue" or the yellow "carpenter's glue", is a proven
+glue that is popular due to it's wide availability and low cost. PVA glue is
+usually a dispersion of PVA in water. Once applied, the water will slowly
+evaporate and drawn into the wood, causing the glue to harden and the joined
+wood surfaces to adhere to each other. As any material, however, PVA glue has
+it's limits.
 
 Generally, the instructions of the particular PVA glue that was bought are what
 is valid for that specific product. However, PVA glues are normally very similar
@@ -44,3 +45,43 @@ indoor applications.
 
 If it is not clear whether or not the product in question is compatible with
 PVA glue, it is always advisable to test it with two small pieces of scrap wood.
+
+
+=== Natural glues
+These glues are not made from synthetic materials and instead extracted or
+produced from natural components. Their use is uncommon today, because it's less
+convenient or  more expensive compared to synthetic glues or sometimes because
+the glue need very specific properties that cannot be achieved with natural
+glues.
+
+==== Animal glue
+Animal glue is similar to gelatin. It is made up from a range of proteins that
+are extracted from various parts of animals, such as bones, skin or tendons. It
+is typically sold in granular form, sometimes in sheets. To use, the dry glue
+will be mixed with water and heated to at least 60°C until the glue is fully
+dissolved in the water. It is also possible to just pour boiling water on the
+glue and keep stirring until dissolved. Usually the glue then has the right
+temperature.
+
+The mechanical properties of the glue depend on what specific part of the animal
+the glue was extracted from. For general assembly work in furniture making, the
+differences are negligible though. The strength of the glue joint is comparable
+to that of PVA glue.
+
+[horizontal]
+Working temperature:: 60°C - 80°C
+Processing time:: Not limited while glue is hot in container +
+                  A few minutes once applied to the wood (water evaporation,
+                  cooling) +
+                  Shortened by low ambient and work piece temperature
+Clamping time:: 1 hour or more
+Max. temperature:: about 60°C
+Storage temperature:: below ~40°C (dry)
+Water resistant:: no
+Shelf life:: practically unlimited (dry)
+
+One great advantage of animal glue is that the glue joint is reversible. The
+joint can be pulled apart by applying hot water to the glue joint for a while.
+Using a heat gun can help with the process. A disadvantage is the tricky
+assembly of many or larger pieces, which may make partial assembly with waiting
+times until the glue hardens or pre-heating the entire work piece necessary.
