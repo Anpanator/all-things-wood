@@ -43,8 +43,8 @@ impossible to use certain wood stains, paints or wood finishes. Despite these
 limitations, PVA glue is a very good wood glue and is a good choice for most
 indoor applications.
 
-If it is not clear whether or not the product in question is compatible with
-PVA glue, it is always advisable to test it with two small pieces of scrap wood.
+If it is not clear whether or not the product in question is compatible with PVA
+glue, it is always advisable to test it with two small pieces of scrap wood.
 
 
 === Natural glues
@@ -85,3 +85,40 @@ joint can be pulled apart by applying hot water to the glue joint for a while.
 Using a heat gun can help with the process. A disadvantage is the tricky
 assembly of many or larger pieces, which may make partial assembly with waiting
 times until the glue hardens or pre-heating the entire work piece necessary.
+
+==== Casein glue
+This glue is made from casein a group of proteins primarily found in milk, water
+and slaked lime (Ca(OH)₂). In commercial products,  additional additives such as
+sodium silicate are used to extend the processing time of the glue.
+
+The easiest way to produce casein glue is to mix low-fat curd with slaked lime.
+50g of low-fat (0.1%) curd require about one teaspoon of dry slaked lime powder,
+although the exact ratio may vary depending on what specific brand of curd is
+used. Curd with normal fat content should not be used since the fat will
+saponify and decrease the glue strength.
+
+After adding the slaked lime, it should be thoroughly mixed with the curd, for
+instance with mortar and pestle for low amounts, for at least 5 minutes. After
+that, let the glue rest for 15 minutes. Stir once more and the glue is ready to
+use.
+
+[horizontal]
+Working temperature:: 10°C - ~40°C
+Processing time:: about 1 hour +
+                  Possibly more if product contains additives.
+Clamping time:: 2 - 8 hours
+Max. temperature:: 100°C+
+Storage temperature:: below ~40°C (dry)
+Water resistant:: partially +
+                  Short term water exposure is not an issue. +
+                  Glue strength will weaken by at least 50% when constantly wet.
+Shelf life:: about a year for commercial products (dry)
+
+Casein glue is generally stronger the thicker it was prepared. When making it
+from low-fat curd, no additional water should be added. When too much slaked
+lime was used in preparation, the glue will become too hard after drying and be
+rather brittle.
+
+On the other hand, it is no problem to use alkaline wood finishes or paints.
+It's also resistant to commonly used solvents. The glue itself does not
+deteriorate, even after decades.
