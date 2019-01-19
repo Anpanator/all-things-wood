@@ -86,6 +86,8 @@ Using a heat gun can help with the process. A disadvantage is the tricky
 assembly of many or larger pieces, which may make partial assembly with waiting
 times until the glue hardens or pre-heating the entire work piece necessary.
 
+The glue should be applied to all faces that are to be glued together.
+
 ==== Casein glue
 This glue is made from casein a group of proteins primarily found in milk, water
 and slaked lime (Ca(OH)₂). In commercial products,  additional additives such as
@@ -122,3 +124,5 @@ rather brittle.
 On the other hand, it is no problem to use alkaline wood finishes or paints.
 It's also resistant to commonly used solvents. The glue itself does not
 deteriorate, even after decades.
+
+The glue should be applied to all faces that are to be glued together.
