@@ -109,7 +109,7 @@ Working temperature:: 10°C - ~40°C
 Processing time:: about 1 hour +
                   Possibly more if product contains additives.
 Clamping time:: 2 - 8 hours
-Max. temperature:: 100°C+
+Max. temperature:: 100°C
 Storage temperature:: below ~40°C (dry)
 Water resistant:: partially +
                   Short term water exposure is not an issue. +
