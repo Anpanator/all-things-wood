@@ -126,3 +126,7 @@ It's also resistant to commonly used solvents. The glue itself does not
 deteriorate, even after decades.
 
 The glue should be applied to all faces that are to be glued together.
+
+WARNING: Slaked lime - and therefore the ready to use glue - is caustic. Avoid
+direct contact with the glue. Wear gloves and safety glasses to avoid chemical
+burns.
