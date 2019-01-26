@@ -51,7 +51,7 @@ glue, it is always advisable to test it with two small pieces of scrap wood.
 These glues are not made from synthetic materials and instead extracted or
 produced from natural components. Their use is uncommon today, because it's less
 convenient or  more expensive compared to synthetic glues or sometimes because
-the glue need very specific properties that cannot be achieved with natural
+the glue needs very specific properties that cannot be achieved with natural
 glues.
 
 ==== Animal glue
@@ -89,9 +89,9 @@ times until the glue hardens or pre-heating the entire work piece necessary.
 The glue should be applied to all faces that are to be glued together.
 
 ==== Casein glue
-This glue is made from casein a group of proteins primarily found in milk, water
-and slaked lime (Ca(OH)₂). In commercial products, additives such as sodium
-silicate are used to extend the processing time of the glue.
+This glue is made from casein, a group of proteins primarily found in milk,
+water and slaked lime (Ca(OH)₂). In commercial products, additives such as
+sodium silicate are used to extend the processing time of the glue.
 
 The easiest way to produce casein glue is to mix low-fat curd with slaked lime.
 50g of low-fat (0.1%) curd requires about one teaspoon of dry slaked lime
