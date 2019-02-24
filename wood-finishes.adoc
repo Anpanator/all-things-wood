@@ -1,1 +1,25 @@
 == Wood finishes
+
+Wood finishes are applied to the work piece to protect the wood against
+environmental influences, make it more resistant to wear or deterioration.
+Usually the finishes are applied after assembly, especially in furniture making.
+There are cases when they are applied before the wood is used in it's final
+function though.
+
+There is a wide variety of wood finishes available. Many products are blends of
+components that could be used on their own as well. A list of commonly available
+finishes, their properties and a couple of recipes for homemade finishes can be
+found below.
+
+=== Lacquer
+Lacquer for wood, today, typically consists of a variety of synthetic polymers.
+It is a rather durable coating for wood and can either be transparent, in which
+case it is often applied after staining the wood, or it can contain pigments to
+give it color and hide the wood surface. The lacquer is usually dissolved in
+mineral spirits and dries quickly.
+
+The wood surface is pretty much sealed after applying lacquer, so the wood will
+no longer exchange moisture with the surrounding air. Additionally, if there is
+a crack in the surface, moisture can enter the wood through it. However, the
+wood cannot properly dry anymore, which can cause mold to grow and destroy the
+wood from the inside, which makes lacquer a poor choice for some applications.
