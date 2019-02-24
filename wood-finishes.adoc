@@ -12,8 +12,8 @@ finishes, their properties and a couple of recipes for homemade finishes can be
 found below.
 
 === Lacquer
-Lacquer for wood, today, typically consists of a variety of synthetic polymers.
-It is a rather durable coating for wood and can either be transparent, in which
+Lacquer for wood, today, typically consists of a blend of synthetic polymers. It
+is a rather durable coating for wood and can either be transparent, in which
 case it is often applied after staining the wood, or it can contain pigments to
 give it color and hide the wood surface. The lacquer is usually dissolved in
 mineral spirits and dries quickly.
@@ -23,3 +23,16 @@ no longer exchange moisture with the surrounding air. Additionally, if there is
 a crack in the surface, moisture can enter the wood through it. However, the
 wood cannot properly dry anymore, which can cause mold to grow and destroy the
 wood from the inside, which makes lacquer a poor choice for some applications.
+
+=== Shellac
+Shellac is a natural resin produced by the lac bug. On it's own, Shellac is very
+brittle at room temperature, so depending on the application, it is blended with
+with, for instance, drying oils. For application, it is dissolved in ethanol or
+isopropyl alcohol. Mineral spirits also work and may be necessary for some
+blends.
+
+It's color can be either white (bleached), amber or deep red-brown, which is why
+it is sometimes used as a wood stain and then coated with a different wood
+finishes.
+
+When exposed to water, shellac will well up and therefore is not waterproof.
