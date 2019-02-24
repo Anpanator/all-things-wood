@@ -36,3 +36,52 @@ it is sometimes used as a wood stain and then coated with a different wood
 finishes.
 
 When exposed to water, shellac will well up and therefore is not waterproof.
+
+=== Drying oils
+Drying oils are oils that will naturally polymerize by absorbing oxygen from the
+air over time. The term "curing" would be more accurate, but is uncommon.
+Sometimes a drying agent is added or the oil is pre-polymerized and then thinned
+to accelerate the curing time, though neither is strictly necessary.
+
+Oils are normally applied more than once to achieve a sufficient coat. How often
+depends on various factors, such as how much the oil was thinned (if at all) and
+if it was treated to accelerate curing time, as well as the desired protection,
+look and feel of the wood.
+
+An important property of drying oils is that they are hydrophobic, meaning
+liquid water will not wet the surface of wood treated with it easily, but they
+are not impermeable to water vapor, which means the wood will still absorb and
+release moisture from the environment. This is why furniture that is only
+treated with drying oils helps regulate the indoor climate, leading to generally
+higher comfort.
+
+After the first applied layer of oil has dried to the point where the surface
+will not release any oil anymore if it is touched, the wood should be sanded.
+You should use at use at least 120 grit sandpaper and go no higher than 320 grit
+to still allow oil to easily pass through the surface. Any sanding dust should
+be removed before the next oil coat or use of a different wood finish on top.
+
+Untreated drying oils penetrate very deep into the wood and achieve a thick
+protective layer, given several applications of oil.
+
+==== Linseed oil
+Linseed oil is the most widely known and available type of drying oil. After
+drying, the oil will stay somewhat flexible and can deal very well with
+mechanical stresses and expansion/contraction of the wood due to varying
+moisture or temperature.
+
+Linseed oil for use as wood finish is most commonly sold as Boiled Linseed Oil
+(BLO), typically also with drying agents, which allows further treatment of the
+wood surface after just 24 hours of curing time at room temperature. Untreated
+linseed oil will need several days to a week before it has sufficiently cured so
+a second coat can be applied.
+
+It can be used to help preserve furniture and structural wood in outdoor
+application, although it will degenerate over time when exposed to UV light.
+Window frames preserved with linseed oil should get a new oil coat every 1 to 5
+years, depending on the intensity of the exposure. The surface must be clean
+before application, but sanding is not necessary for a "refresh coat".
+
+This problem can be alleviated, although not eliminated, by using pigments in
+the topmost oil layers, but doing so will make the natural wood structure
+invisible.
