@@ -48,12 +48,12 @@ depends on various factors, such as how much the oil was thinned (if at all) and
 if it was treated to accelerate curing time, as well as the desired protection,
 look and feel of the wood.
 
-An important property of drying oils is that they are hydrophobic, meaning
-liquid water will not wet the surface of wood treated with it easily, but they
-are not impermeable to water vapor. Due to this, the wood will still absorb and
-release moisture from the environment. This is why furniture that is only
-treated with drying oils helps regulate the indoor climate, leading to generally
-higher comfort.
+An important property of drying oils is that the resulting surface is
+hydrophobic, meaning liquid water will not wet it easily, but it is not
+impermeable to water vapor. Due to this, the wood will still absorb and release
+moisture from the environment, although at a slower rate than untreated wood.
+This is why furniture that is only treated with drying oils helps regulate the
+indoor climate, leading to generally higher comfort.
 
 After the first applied layer of oil has dried to the point where the surface
 will not release any oil anymore if it is touched, the wood should be sanded.
