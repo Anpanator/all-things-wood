@@ -22,7 +22,7 @@ The wood surface is pretty much sealed after applying lacquer, so the wood will
 no longer exchange moisture with the surrounding air. Additionally, if there is
 a crack in the surface, moisture can enter the wood through it. However, the
 wood cannot properly dry anymore, which can cause mold to grow and destroy the
-wood from the inside, which makes lacquer a poor choice for some applications.
+wood from the inside, making lacquer a poor choice for some applications.
 
 === Shellac
 Shellac is a natural resin produced by the lac bug. On it's own, Shellac is very
@@ -50,16 +50,16 @@ look and feel of the wood.
 
 An important property of drying oils is that they are hydrophobic, meaning
 liquid water will not wet the surface of wood treated with it easily, but they
-are not impermeable to water vapor, which means the wood will still absorb and
+are not impermeable to water vapor. Due to this, the wood will still absorb and
 release moisture from the environment. This is why furniture that is only
 treated with drying oils helps regulate the indoor climate, leading to generally
 higher comfort.
 
 After the first applied layer of oil has dried to the point where the surface
 will not release any oil anymore if it is touched, the wood should be sanded.
-You should use at use at least 120 grit sandpaper and go no higher than 320 grit
-to still allow oil to easily pass through the surface. Any sanding dust should
-be removed before the next oil coat or use of a different wood finish on top.
+Sandpaper in the 120 grit to 320 grit range at most should be used to allow oil
+to still easily pass through the surface. Any sanding dust should be removed
+before the next oil coat or use of a different wood finish on top.
 
 Untreated drying oils penetrate very deep into the wood and achieve a thick
 protective layer, given several applications of oil.
