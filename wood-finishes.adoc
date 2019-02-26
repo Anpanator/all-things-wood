@@ -55,14 +55,25 @@ moisture from the environment, although at a slower rate than untreated wood.
 This is why furniture that is only treated with drying oils helps regulate the
 indoor climate, leading to generally higher comfort.
 
-After the first applied layer of oil has dried to the point where the surface
-will not release any oil anymore if it is touched, the wood should be sanded.
-Sandpaper in the 120 grit to 320 grit range at most should be used to allow oil
-to still easily pass through the surface. Any sanding dust should be removed
-before the next oil coat or use of a different wood finish on top.
+When a drying oil is applied to a wood surface with a brush, cloth or similar,
+any excess oil must be removed from the wood after 30 to 60 minutes. Otherwise,
+the oil will take a very long time to cure and the surface will become sticky.
+
+After the first layer of oil has dried to the point where the surface will not
+release any oil anymore if it is touched, the wood should be sanded. Sandpaper
+in the 120 grit to 320 grit range at most should be used to allow oil to still
+easily pass through the surface. Any sanding dust should be removed before the
+next oil coat or use of a different wood finish on top.
 
 Untreated drying oils penetrate very deep into the wood and achieve a thick
 protective layer, given several applications of oil.
+
+WARNING: Drying oils generate heat when absorbing oxygen from the air. This can
+lead to self combustion of rags or brushes under the right conditions because of
+the very high surface area. Never directly throw oily rags into the trash or
+store them crumpled-up. For safe storage and/or disposal, either let the rag dry
+fully unfolded or store it in oxygen-free conditions (such as a small glass jar
+with lid) or under water.
 
 ==== Linseed oil
 Linseed oil is the most widely known and available type of drying oil. After
