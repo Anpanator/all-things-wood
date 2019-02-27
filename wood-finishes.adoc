@@ -66,7 +66,10 @@ easily pass through the surface. Any sanding dust should be removed before the
 next oil coat or use of a different wood finish on top.
 
 Untreated drying oils penetrate very deep into the wood and achieve a thick
-protective layer, given several applications of oil.
+protective layer, given several applications of oil. To improve the absorption
+of the oil into the wood, even for thicker, pre-polymerized products, it can
+make sense to decrease the viscosity of the oil by thinning it, for instance
+with acetone. The thinner will evaporate and leave behind only the oil.
 
 WARNING: Drying oils generate heat when absorbing oxygen from the air. This can
 lead to self combustion of rags or brushes under the right conditions because of
