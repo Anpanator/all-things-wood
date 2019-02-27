@@ -1,0 +1,122 @@
+== Wood finishes
+
+Wood finishes are applied to the work piece to protect the wood against
+environmental influences, make it more resistant to wear or deterioration.
+Usually the finishes are applied after assembly, especially in furniture making.
+There are cases when they are applied before the wood is used in it's final
+function though.
+
+There is a wide variety of wood finishes available. Many products are blends of
+components that could be used on their own as well. A list of commonly available
+finishes, their properties and a couple of recipes for homemade finishes can be
+found below.
+
+=== Lacquer
+Lacquer for wood, today, typically consists of a blend of synthetic polymers. It
+is a rather durable coating for wood and can either be transparent, in which
+case it is often applied after staining the wood, or it can contain pigments to
+give it color and hide the wood surface. The lacquer is usually dissolved in
+mineral spirits and dries quickly.
+
+The wood surface is pretty much sealed after applying lacquer, so the wood will
+no longer exchange moisture with the surrounding air. Additionally, if there is
+a crack in the surface, moisture can enter the wood through it. However, the
+wood cannot properly dry anymore, which can cause mold to grow and destroy the
+wood from the inside, making lacquer a poor choice for some applications.
+
+=== Shellac
+Shellac is a natural resin produced by the lac bug. On it's own, Shellac is very
+brittle at room temperature, so depending on the application, it is blended with
+with, for instance, drying oils. For application, it is dissolved in ethanol or
+isopropyl alcohol. Mineral spirits also work and may be necessary for some
+blends.
+
+It's color can be either white (bleached), amber or deep red-brown, which is why
+it is sometimes used as a wood stain and then coated with a different wood
+finish.
+
+When exposed to water, shellac will well up and therefore is not waterproof.
+
+=== Drying oils
+Drying oils are oils that will naturally polymerize by absorbing oxygen from the
+air over time. The term "curing" would be more accurate, but is uncommon.
+Sometimes a drying agent is added or the oil is pre-polymerized and then thinned
+to accelerate the curing time, though neither is strictly necessary.
+
+Oils are normally applied more than once to achieve a sufficient coat. How often
+depends on various factors, such as how much the oil was thinned (if at all) and
+if it was treated to accelerate curing time, as well as the desired protection,
+look and feel of the wood.
+
+An important property of drying oils is that the resulting surface is
+hydrophobic, meaning liquid water will not wet it easily, but it is not
+impermeable to water vapor. Due to this, the wood will still absorb and release
+moisture from the environment, although at a slower rate than untreated wood.
+This is why furniture that is only treated with drying oils helps regulate the
+indoor climate, leading to generally higher comfort.
+
+When a drying oil is applied to a wood surface with a brush, cloth or similar,
+any excess oil must be removed from the wood after 30 to 60 minutes. Otherwise,
+the oil will take a very long time to cure and the surface will become sticky.
+
+After the first layer of oil has dried to the point where the surface will not
+release any oil anymore if it is touched, the wood should be sanded. Sandpaper
+in the 120 grit to 320 grit range at most should be used to allow oil to still
+easily pass through the surface. Any sanding dust should be removed before the
+next oil coat or use of a different wood finish on top.
+
+Untreated drying oils penetrate very deep into the wood and achieve a thick
+protective layer, given several applications of oil. To improve the absorption
+of the oil into the wood, even for thicker, pre-polymerized products, it can
+make sense to decrease the viscosity of the oil by thinning it, for instance
+with acetone. The thinner will evaporate and leave behind only the oil.
+
+WARNING: Drying oils generate heat when absorbing oxygen from the air. This can
+lead to self combustion of rags or brushes under the right conditions because of
+the very high surface area. Never directly throw oily rags into the trash or
+store them crumpled-up. For safe storage and/or disposal, either let the rag dry
+fully unfolded or store it in oxygen-free conditions (such as a small glass jar
+with lid) or under water.
+
+==== Linseed Oil
+Linseed oil is the most widely known and available type of drying oil. After
+drying, the finish will stay somewhat flexible and can deal very well with
+mechanical stresses and expansion/contraction of the wood due to varying
+moisture or temperature.
+
+Linseed oil for use as wood finish is most commonly sold as Boiled Linseed Oil
+(BLO), typically also with drying agents, which allows further treatment of the
+wood surface after just 24 hours of curing time at room temperature. Untreated
+linseed oil will need several days to a week before it has sufficiently cured so
+a second coat can be applied.
+
+It can be used to help preserve furniture and structural wood in outdoor
+application, although it will degenerate over time when exposed to UV light.
+Window frames preserved with linseed oil for instance should get a new oil coat
+every 1 to 5 years, depending on the intensity of the exposure. The surface must
+be clean before application, but sanding is not necessary for a "refresh coat".
+
+This problem can be alleviated, although not eliminated, by using pigments in
+the topmost oil layers, but doing so will make the natural wood structure
+invisible.
+
+==== Tung Oil
+Tung oil is a less known and more expensive as a drying oil, but nonetheless a
+very good finish for wood. It cures faster than raw linseed oil and produces a
+harder, more durable surface. For that reason it is almost always sold
+untreated. Tung oil may cause skin irritations or allergic reactions, so using
+gloves when applying it is advisable. After curing, however, it is completely
+safe.
+
+While curing, the volume of the oil first increases before then decreasing
+again. This makes it necessary to not only wipe off excess oil after 30 to 60
+minutes, as is necessary for all drying oils, but a second time 12 to 24 hours
+after application.
+
+This oil smells similar to lard or frying oil, making it somewhat unpopular as a
+wood finish. This smell will slowly disappears as the oil dries, however.
+
+Tung oil is often blended with linseed oil to make the resulting wood finish
+more durable, especially in outdoor applications, and still retain some of the
+flexibility that pure linseed oil finishes offer. It also reduces or eliminates
+the issue of expansion of the oil while curing.
