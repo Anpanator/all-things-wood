@@ -37,6 +37,14 @@ finish.
 
 When exposed to water, shellac will well up and therefore is not waterproof.
 
+=== Danish oil
+This product has no strictly defined composition, but is typically composed of
+pre-polymerized drying oils such as linseed and tung oil and blended with other
+products, such as lacquer or polyurethane in an attempt to combine the positive
+properties of the individual components. It is usually a rather hard and durable
+finish, but it depends on the specific product what these properties actually
+are.
+
 === Drying oils
 Drying oils are oils that will naturally polymerize by absorbing oxygen from the
 air over time. The term "curing" would be more accurate, but is uncommon.
