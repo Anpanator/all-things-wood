@@ -3,7 +3,7 @@
 Wood finishes are applied to the work piece to protect the wood against
 environmental influences, make it more resistant to wear or deterioration.
 Usually the finishes are applied after assembly, especially in furniture making.
-There are cases when they are applied before the wood is used in it's final
+There are cases when they are applied before the wood is used in its final
 function though.
 
 There is a wide variety of wood finishes available. Many products are blends of
@@ -25,13 +25,13 @@ wood cannot properly dry anymore, which can cause mold to grow and destroy the
 wood from the inside, making lacquer a poor choice for some applications.
 
 === Shellac
-Shellac is a natural resin produced by the lac bug. On it's own, Shellac is very
+Shellac is a natural resin produced by the lac bug. On its own, Shellac is very
 brittle at room temperature, so depending on the application, it is blended
 with, for instance, drying oils. For application, it is dissolved in ethanol or
 isopropyl alcohol. Mineral spirits also work and may be necessary for some
 blends.
 
-It's color can be either white (bleached), amber or deep red-brown, which is why
+Its color can be either white (bleached), amber or deep red-brown, which is why
 it is sometimes used as a wood stain and then coated with a different wood
 finish.
 
