@@ -26,7 +26,7 @@ wood from the inside, making lacquer a poor choice for some applications.
 
 === Shellac
 Shellac is a natural resin produced by the lac bug. On it's own, Shellac is very
-brittle at room temperature, so depending on the application, it is blended with
+brittle at room temperature, so depending on the application, it is blended
 with, for instance, drying oils. For application, it is dissolved in ethanol or
 isopropyl alcohol. Mineral spirits also work and may be necessary for some
 blends.
