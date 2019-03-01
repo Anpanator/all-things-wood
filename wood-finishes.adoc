@@ -100,6 +100,12 @@ This problem can be alleviated, although not eliminated, by using pigments in
 the topmost oil layers, but doing so will make the natural wood structure
 invisible.
 
+There is one important issue with linseed oil finishes: In the presence of
+water, metal items will create dark stains over time that go deep into the wood
+and cannot be removed anymore at some point. This makes this drying oil
+unsuitable for wood surfaces that frequently have these conditions, like wodden
+kitchen counters for instance.
+
 ==== Tung Oil
 Tung oil is a less known and more expensive as a drying oil, but nonetheless a
 very good finish for wood. It cures faster than raw linseed oil and produces a
@@ -120,3 +126,6 @@ Tung oil is often blended with linseed oil to make the resulting wood finish
 more durable, especially in outdoor applications, and still retain some of the
 flexibility that pure linseed oil finishes offer. It also reduces or eliminates
 the issue of expansion of the oil while curing.
+
+Tung oil does not have the same issue as linseed oil regarding water and metal
+items.
