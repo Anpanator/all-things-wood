@@ -1,4 +1,5 @@
 = All Things Wood
+:icons: font
 
 A collection of information regarding wood and working with it.
 
