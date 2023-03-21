@@ -1,128 +1,110 @@
 == Wood glues
-Certainly, there are many ways of joining different pieces of wood together, but
-using glue is one of the most common ways to do so. However, there is a wide
-variety of glues that can be used.
+
+Certainly, there are many ways of joining different pieces of wood together, but using glue is one of the most common ways to do so.
+However, there is a wide variety of glues that can be used.
 
 === Synthetic glues
-Synthetic glues are the most commonly used today because they usually offer some
-advantages compared to natural glues that have been used traditionally, such as
-higher adhesive strength, easier application or complete resistance to moisture,
-which can greatly simplify construction in outdoor applications, for instance.
+
+Synthetic glues are the most commonly used today because they usually offer some advantages compared to natural glues that have been used traditionally, such as higher adhesive strength, easier application or complete resistance to moisture, which can greatly simplify construction in outdoor applications, for instance.
 
 ==== PVA glue
-Likely one of the most widely used glues, PVA (**p**oly**v**inyl **a**cetate)
-glue, also known as "white glue" or the yellow "carpenter's glue", is a proven
-glue that is popular due to it's wide availability and low cost. PVA glue is
-usually a dispersion of PVA in water. Once applied, the water will slowly
-evaporate and drawn into the wood, causing the glue to harden and the joined
-wood surfaces to adhere to each other. As any material, however, PVA glue has
-it's limits.
 
-Generally, the instructions of the particular PVA glue that was bought are what
-is valid for that specific product. However, PVA glues are normally very similar
-in some aspects:
+Likely one of the most widely used glues, PVA (**p**oly**v**inyl **a**cetate) glue, also known as "white glue" or the yellow "carpenter's glue", is a proven glue that is popular due to it's wide availability and low cost.
+PVA glue is usually a dispersion of PVA in water.
+Once applied, the water will slowly evaporate and drawn into the wood, causing the glue to harden and the joined wood surfaces to adhere to each other.
+As any material, however, PVA glue has it's limits.
+
+Generally, the instructions of the particular PVA glue that was bought are what is valid for that specific product.
+However, PVA glues are normally very similar in some aspects:
 
 [horizontal]
 Working temperature:: 8°C to ~40°C +
-                      (ideally between 15°C and 25°C)
+(ideally between 15°C and 25°C)
 Processing time:: 5 to 10 minutes +
-                  (can be extended by thinning with water to an extent)
+(can be extended by thinning with water to an extent)
 Clamping time:: no less than 20 minutes
 Max. temperature:: about 60°C
 Storage temperature:: 0°C - 30°C
 Water resistant:: no
 Shelf life:: up to about 6 months
 
-PVA glue will saponify easily under alkaline conditions and is very susceptible
-to solvents, which will make the glue joint fail very easily. This may make it
-impossible to use certain wood stains, paints or wood finishes. Despite these
-limitations, PVA glue is a very good wood glue and is a good choice for most
-indoor applications.
+PVA glue will saponify easily under alkaline conditions and is very susceptible to solvents, which will make the glue joint fail very easily.
+This may make it impossible to use certain wood stains, paints or wood finishes.
+Despite these limitations, PVA glue is a very good wood glue and is a good choice for most indoor applications.
 
-If it is not clear whether or not the product in question is compatible with PVA
-glue, it is always advisable to test it with two small pieces of scrap wood.
-
+If it is not clear whether or not the product in question is compatible with PVA glue, it is always advisable to test it with two small pieces of scrap wood.
 
 === Natural glues
-These glues are not made from synthetic materials and instead extracted or
-produced from natural components. Their use is uncommon today, because it's less
-convenient or  more expensive compared to synthetic glues or sometimes because
-the glue needs very specific properties that cannot be achieved with natural
-glues.
+
+These glues are not made from synthetic materials and instead extracted or produced from natural components.
+Their use is uncommon today, because it's less convenient or more expensive compared to synthetic glues or sometimes because the glue needs very specific properties that cannot be achieved with natural glues.
 
 ==== Animal glue
-Animal glue is similar to gelatin. It is made up from a range of proteins that
-are extracted from various parts of animals, such as bones, skin or tendons. It
-is typically sold in granular form, sometimes in sheets. To use, the dry glue
-will be mixed with water and heated to at least 60°C until the glue is fully
-dissolved in the water. It is also possible to just pour boiling water on the
-glue and keep stirring until dissolved. Usually the glue then has the right
-temperature.
 
-The mechanical properties of the glue depend on what specific part of the animal
-the glue was extracted from. For general assembly work in furniture making, the
-differences are negligible though. The strength of the glue joint is comparable
-to that of PVA glue.
+Animal glue is similar to the gelatin used in the kitchen, just less pure.
+It is made up from a range of proteins that are extracted from various parts of animals, such as bones, skin or tendons.
+It is typically sold in granular form, sometimes in sheets.
+To use, the dry glue will be mixed with water and heated to at least 60°C until the glue is fully dissolved in the water.
+It is also possible to just pour water (max. 80 °C) on the glue and keep stirring until dissolved.
+
+The mechanical properties of the glue depend on what specific part of the animal the glue was extracted from.
+For general assembly work in furniture making, the differences are negligible though.
+The strength of the glue joint is comparable to that of PVA glue.
+
+Animal glue must not be heated above 80 °C, as this will alter the proteins and reduce glue strength.
 
 [horizontal]
-Working temperature:: 60°C - 80°C
+Working temperature:: 50°C - 70°C
 Processing time:: Not limited while glue is hot in container +
-                  A few minutes once applied to the wood (water evaporation,
-                  cooling) +
-                  Shortened by low ambient and work piece temperature
+A few minutes once applied to the wood (water evaporation, cooling) +
+Shortened by low ambient and work piece temperature
 Clamping time:: 1 hour or more
 Max. temperature:: about 60°C
 Storage temperature:: below ~40°C (dry)
 Water resistant:: no
 Shelf life:: practically unlimited (dry)
 
-One great advantage of animal glue is that the glue joint is reversible. The
-joint can be pulled apart by applying hot water to the glue joint for a while.
-Using a heat gun can help with the process. A disadvantage is the tricky
-assembly of many or larger pieces, which may make partial assembly with waiting
-times until the glue hardens or pre-heating the entire work piece necessary.
+One great advantage of animal glue is that the glue joint is reversible.
+The joint can be pulled apart by applying hot water to the glue joint for a while.
+Using a heat gun can help with the process.
+A disadvantage is the tricky assembly of many or larger pieces, which may make partial assembly with waiting times until the glue hardens or pre-heating the entire work piece necessary.
 
 The glue should be applied to all faces that are to be glued together.
 
 ==== Casein glue
-This glue is made from casein, a group of proteins primarily found in milk,
-water and slaked lime (Ca(OH)₂). In commercial products, additives such as
-sodium silicate are used to extend the processing time of the glue.
+
+This glue is made from casein, a group of proteins primarily found in milk, water and slaked lime (Ca(OH)₂).
+In commercial products, additives such as sodium silicate are used to extend the processing time of the glue.
 
 The easiest way to produce casein glue is to mix low-fat curd with slaked lime.
-50g of low-fat (0.1%) curd requires about one teaspoon of dry slaked lime
-powder, although the exact ratio may vary depending on what specific brand of
-curd is used. Curd with normal fat content should not be used since the fat will
-saponify and decrease the glue strength.
+50g of low-fat (0.1%) curd requires about one teaspoon of dry slaked lime powder, although the exact ratio may vary depending on what specific brand of curd is used.
+Curd with normal fat content should not be used since the fat will saponify and decrease the glue strength.
 
-After adding the slaked lime, it should be thoroughly mixed with the curd, for
-instance with mortar and pestle for low amounts, for at least 5 minutes. After
-that, let the glue rest for 15 minutes. Stir once more and the glue is ready to
-use.
+After adding the slaked lime, it should be thoroughly mixed with the curd, for instance with mortar and pestle for low amounts, for at least 5 minutes.
+After that, let the glue rest for 15 minutes.
+Stir once more and the glue is ready to use.
 
 [horizontal]
 Working temperature:: 10°C - ~40°C
 Processing time:: about 1 hour +
-                  Possibly more if product contains additives.
+Possibly more if product contains additives.
 Clamping time:: 2 - 8 hours
 Max. temperature:: 100°C
 Storage temperature:: below ~40°C (dry)
 Water resistant:: partially +
-                  Short term water exposure is not an issue. +
-                  Glue strength will weaken by at least 50% when constantly wet.
+Short term water exposure is not an issue. +
+Glue strength will weaken by at least 50% when constantly wet.
 Shelf life:: about a year for commercial products (dry)
 
-Casein glue is generally stronger the thicker it was prepared. When making it
-from low-fat curd, no additional water should be added. When too much slaked
-lime was used in preparation, the glue will become too hard after drying and be
-rather brittle.
+Casein glue is generally stronger the thicker it was prepared.
+When making it from low-fat curd, no additional water should be added.
+When too much slaked lime was used in preparation, the glue will become too hard after drying and be rather brittle.
 
 On the other hand, it is no problem to use alkaline wood finishes or paints.
-It's also resistant to commonly used solvents. The glue itself does not
-deteriorate, even after decades.
+It's also resistant to commonly used solvents.
+The glue itself does not deteriorate, even after decades.
 
 The glue should be applied to all faces that are to be glued together.
 
-WARNING: Avoid direct contact with slaked lime or the fresh casein glue because
-both are caustic and can cause chemical burns. It's advisable to wear safety
-glasses and gloves.
+WARNING: Avoid direct contact with slaked lime or the fresh casein glue because both are caustic and can cause chemical burns.
+It's advisable to wear safety glasses and gloves.
